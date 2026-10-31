@@ -1,0 +1,23 @@
+{
+  "version": "1.37.2",
+  "fecha": "2026-10-31",
+  "notas": "Capas nacionales: reintentos y RUNAP de Parques Nacionales como respaldo.",
+  "pc": {
+    "version": "1.37.2",
+    "archivo": "Instalador_TrazaCoffee_1.37.2.exe",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/Instalador_TrazaCoffee_1.37.2.exe",
+    "sha256": "a33e5b9e1c37b8882d148d7f76e1357ddd054a3340b11d92bf52d6ebbb4ba191"
+  },
+  "campo": {
+    "version": "1.37.2",
+    "archivo": "Instalador_TrazaCoffee_Campo_1.37.2.exe",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/Instalador_TrazaCoffee_Campo_1.37.2.exe",
+    "sha256": "d2bf3e78059c28e0bb3db731e9582b59be96e287aabefeb173f8ae7d7c6176d2"
+  },
+  "apk": {
+    "version": "1.37.2",
+    "archivo": "TrazaCoffee_App_1.37.2.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_1.37.2.apk",
+    "sha256": "52d8abb4f4e946173beb374e9da699b10006119ccb30d2ba75f38e9184f399a7"
+  }
+}
