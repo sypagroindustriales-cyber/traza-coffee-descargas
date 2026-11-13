@@ -1,0 +1,59 @@
+{
+  "version": "1.57.2",
+  "fecha": "2026-11-13",
+  "notas": "App RFA: los videos se cargan enteros antes de verlos (ya no se cortan sin señal).",
+  "pc": {
+    "version": "1.57.2",
+    "archivo": "Instalador_TrazaCoffee_1.57.2.exe",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/Instalador_TrazaCoffee_1.57.2.exe",
+    "sha256": "0e20f559ec0dbe8cd8d966ff997a839f983ba41c01d7596131cadfccaf2e216a"
+  },
+  "punto": {
+    "version": "1.57.2",
+    "archivo": "Instalador_TrazaCoffee_Punto_de_Compra_1.57.2.exe",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/Instalador_TrazaCoffee_Punto_de_Compra_1.57.2.exe",
+    "sha256": "98573352a8388014f86d59be7ca6e528039a5e9989851c0d8b2c160b4f251691"
+  },
+  "campo": {
+    "version": "1.57.2",
+    "archivo": "Instalador_TrazaCoffee_Escritorio_1.57.2.exe",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/Instalador_TrazaCoffee_Escritorio_1.57.2.exe",
+    "sha256": "e33f191cc75a106f9341f2b623cbfee200385b06a5425a532e3e06b7d3bae1d7"
+  },
+  "apk": {
+    "version": "1.57.2",
+    "archivo": "TrazaCoffee_App_1.57.2.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_1.57.2.apk",
+    "sha256": "53eec049b7bc954e0b1a7dfc6bd1e1580b2ed38a5fe033530f47a377667c040a"
+  },
+  "apk_tecnico": {
+    "version": "1.57.2",
+    "archivo": "TrazaCoffee_App_Tecnico_1.57.2.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_Tecnico_1.57.2.apk",
+    "sha256": "286068e2bc07ad5ed0e761706406283b18f08ddc5e622ec2927acb91ffc589df"
+  },
+  "apk_productor": {
+    "version": "1.57.2",
+    "archivo": "TrazaCoffee_App_Productor_1.57.2.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_Productor_1.57.2.apk",
+    "sha256": "02da091a42240cbb53967d2173655e613ed5dfab02b8499be7bb007fe7483232"
+  },
+  "apk_beneficio": {
+    "version": "1.57.2",
+    "archivo": "TrazaCoffee_App_Beneficio_Seco_1.57.2.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_Beneficio_Seco_1.57.2.apk",
+    "sha256": "50eb69af14b765b02fef797bc0f4befdd24331553cf590d1d73d1fe06906900a"
+  },
+  "apk_compra": {
+    "version": "1.57.2",
+    "archivo": "TrazaCoffee_App_Punto_de_Compra_1.57.2.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_Punto_de_Compra_1.57.2.apk",
+    "sha256": "39538b8705d3cf8713831d7b911dc6f254138410fdbb9685b2ee783bc9ad87f7"
+  },
+  "apk_puntomovil": {
+    "version": "1.57.2",
+    "archivo": "TrazaCoffee_Punto_de_Compra_Movil_1.57.2.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_Punto_de_Compra_Movil_1.57.2.apk",
+    "sha256": "e83105480c327b403827a2a668d67d76f0ab35c0b66ade9dc305ca2bc6793995"
+  }
+}
