@@ -1,0 +1,59 @@
+{
+  "version": "1.68.3",
+  "fecha": "2026-11-27",
+  "notas": "La APK sale sola de la página de error de Cloudflare y busca la dirección nueva del PC.",
+  "pc": {
+    "version": "1.68.3",
+    "archivo": "Instalador_TrazaCoffee_1.68.3.exe",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/Instalador_TrazaCoffee_1.68.3.exe",
+    "sha256": "c655d88887adcd6823b4f8bd08982fc29d557cbd98d8994694a798fad3000879"
+  },
+  "punto": {
+    "version": "1.68.3",
+    "archivo": "Instalador_TrazaCoffee_Punto_de_Compra_1.68.3.exe",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/Instalador_TrazaCoffee_Punto_de_Compra_1.68.3.exe",
+    "sha256": "42424588c27a2e603eaf541fc05ff7d9408b1d8de873313393ead1fc69a97f98"
+  },
+  "campo": {
+    "version": "1.68.3",
+    "archivo": "Instalador_TrazaCoffee_Escritorio_1.68.3.exe",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/Instalador_TrazaCoffee_Escritorio_1.68.3.exe",
+    "sha256": "08e7d2d5fac534d0ea181eb49beb29a4e492588c29c0c103662c3601e504afe5"
+  },
+  "apk": {
+    "version": "1.68.3",
+    "archivo": "TrazaCoffee_App_1.68.3.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_1.68.3.apk",
+    "sha256": "fcfd3766643cb87facbef5c394a15cd30bb87cbda1550152c3b3ec31855ac4dd"
+  },
+  "apk_tecnico": {
+    "version": "1.68.3",
+    "archivo": "TrazaCoffee_App_Tecnico_1.68.3.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_Tecnico_1.68.3.apk",
+    "sha256": "ba8855ef65a520d7baa7164c89c2f9206e42485968812b6ab182780b23a75f76"
+  },
+  "apk_productor": {
+    "version": "1.68.3",
+    "archivo": "TrazaCoffee_App_Productor_1.68.3.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_Productor_1.68.3.apk",
+    "sha256": "b50c93e58eee0b53ff45b1fe01fbf490c7c4ddea92d6f605813a1a53e22f1aa8"
+  },
+  "apk_beneficio": {
+    "version": "1.68.3",
+    "archivo": "TrazaCoffee_App_Beneficio_Seco_1.68.3.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_Beneficio_Seco_1.68.3.apk",
+    "sha256": "93e6d956844541a741a8ddec16596129c6f2da808fabaf48ffa42506d31cd54e"
+  },
+  "apk_compra": {
+    "version": "1.68.3",
+    "archivo": "TrazaCoffee_App_Punto_de_Compra_1.68.3.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_App_Punto_de_Compra_1.68.3.apk",
+    "sha256": "224f6da3c65d68e9ba76fd7d6ef62801fa9fba82ef20580ff862798b0de23462"
+  },
+  "apk_puntomovil": {
+    "version": "1.68.3",
+    "archivo": "TrazaCoffee_Punto_de_Compra_Movil_1.68.3.apk",
+    "url": "https://raw.githubusercontent.com/sypagroindustriales-cyber/traza-coffee-descargas/main/TrazaCoffee_Punto_de_Compra_Movil_1.68.3.apk",
+    "sha256": "c3b9aca8fbda86979e536c0281d6b83075872953394582f23b13749ab91f0cdb"
+  }
+}
